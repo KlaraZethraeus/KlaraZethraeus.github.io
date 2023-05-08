@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.628deaaf.css",
+    "main.js": "/static/js/main.bbdbd810.js",
+    "static/js/787.633816a4.chunk.js": "/static/js/787.633816a4.chunk.js",
+    "static/media/Gaegu-Light.ttf": "/static/media/Gaegu-Light.0a067ae701d198366cf0.ttf",
+    "index.html": "/index.html",
+    "main.628deaaf.css.map": "/static/css/main.628deaaf.css.map",
+    "main.bbdbd810.js.map": "/static/js/main.bbdbd810.js.map",
+    "787.633816a4.chunk.js.map": "/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628deaaf.css",
+    "static/js/main.bbdbd810.js"
+  ]
+}
