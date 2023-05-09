@@ -1,2 +1,0 @@
-# KlaraZethraeus.github.io
-portfolio
